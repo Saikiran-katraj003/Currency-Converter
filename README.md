@@ -1,5 +1,6 @@
-# Corrency-Converter written in html,css and javascript
-This is my first Git Repositary.
+# Corrency-Converter
+
+This is my first Git Repositary written in html,css and javascript.
 <br>
 Author : Saikiran katraj
 
